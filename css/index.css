@@ -11,7 +11,7 @@
   hr{
     width: 50%;
     margin: 20px auto;
-    border: #1B4821 solid 1px;
+    border: #40bfbf solid 1px;
   }
   
   li,
@@ -38,7 +38,7 @@
   }
   
   .h1{
-    color:#1B4821;
+    color:#40bfbf;
   }
   
   .big{
@@ -101,7 +101,7 @@
     font-weight: bold;
     text-align: center;
     align-items:center;
-    background-color: #FEDE5E;
+    background-color: #F87217;
     opacity: 1;
     padding: 10px 30px;
     margin:5px;
@@ -146,7 +146,7 @@
     font-weight: bold;
     text-align: center;
     align-items:center;
-    background-color:  #FEDE5E;
+    background-color:  #F87217;
     opacity: 1;
     padding: 10px 30px;
     margin:5px;
@@ -187,7 +187,7 @@
   .verytop{
     margin:0 auto;
     padding:0;
-    background-color: #1B4821;
+    background-color: #40bfbf;
       position: fixed;
       top: -100px;
       width: 100%;
@@ -199,7 +199,7 @@
   
   /* Add a black background color to the top navigation */
   .verytop .topnav2{
-    background-color: #1B4821;
+    background-color: #40bfbf;
     overflow: hidden; 
   }
   
@@ -208,7 +208,7 @@
     float: left;
     display: block;
     color: #fff;
-    background-color: #1B4821;
+    background-color: #40bfbf;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
@@ -253,7 +253,7 @@
   .verytop .dropdown-content2 {
     display: none;
     position: absolute;
-    background-color: #1B4821;
+    background-color: #40bfbf;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
     z-index: 1;
@@ -273,13 +273,13 @@
   
   /* Add a dark background on topnav links and the dropdown button on hover */
   .verytop .topnav2 a:hover, .verytop .dropdown2:hover .dropbtn2 {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: #fff;
   }
   
   /* Add a grey background to dropdown links on hover */
   .verytop .dropdown-content2 a:hover {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: #fff;
   }
   
@@ -346,7 +346,7 @@
   
   /* Add a black background color to the top navigation */
   .topnav {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     overflow: hidden;
     
   }
@@ -370,7 +370,7 @@
   
   /* Add an active class to highlight the current page */
   .active {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: white;
   }
   
@@ -404,7 +404,7 @@
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #1B4821;
+    background-color: #40bfbf;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -422,13 +422,13 @@
   
   /* Add a dark background on topnav links and the dropdown button on hover */
   .topnav a:hover, .dropdown:hover .dropbtn {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: white;
   }
   
   /* Add a grey background to dropdown links on hover */
   .dropdown-content a:hover {
-    background-color: #1B4821
+    background-color: #40bfbf
     color: white;
   }
   
@@ -604,7 +604,7 @@
     opacity: 0;
     margin-top: 130px;
     animation: 1s slidefade 1s forwards;
-    background-color: #1B4821 0.5;
+    background-color: #40bfbf 0.5;
     z-index: 2;
   }
   
@@ -895,7 +895,7 @@
     font-weight: bold;
     text-align: center;
     align-items:center;
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: #fff;
     opacity: 1;
     padding: 10px 10px;
@@ -903,18 +903,18 @@
   
   .download{
     padding:15px;
-    border: solid 3px #1B4821;
+    border: solid 3px #40bfbf;
   }
   
   .download li{
     font-size: 20px;
     text-decoration-line: bottom;
-    color: #1B4821;
+    color: #40bfbf;
   }
   
   .download i{
     font-size: 30px;
-      color:#1B4821;
+      color:#40bfbf;
   }
   
   
@@ -961,7 +961,7 @@
   }
   
   .accordion {
-    background-color: #1B4821;
+    background-color: #40bfbf;
     color: #fff;
     cursor: pointer;
     padding: 18px;
@@ -1065,7 +1065,7 @@
     }
   
   .column h3{
-    color:#406661
+    color:#40bfbf
   }
   
   .row img{
@@ -1076,7 +1076,7 @@
   }
   
   .row h2{
-    color: #1B4821;
+    color: #40bfbf;
   }
   
   .row li{
@@ -1118,7 +1118,7 @@
     font-weight: bold;
     text-align: center;
     align-items:center;
-    background-color: #FEDE5E;
+    background-color: #F87217;
     opacity: 1;
     padding: 10px 30px;
     margin:20px;
@@ -1170,7 +1170,7 @@
   
   footer{
     padding:0 20px;
-    background-color: #1B4821;
+    background-color: #40bfbf;
       padding-top: 40px;
   }
   
@@ -1183,14 +1183,14 @@
     flex-direction: row;
     align-items: left;
     justify-content: space-evenly;
-      background-color: #1B4821;
+      background-color: #40bfbf;
     color: #fff;
     padding: 5px 0;
   }
   
   .footergrid div{
     flex-basis: 30%;
-    background-color:#1B4821;
+    background-color:#40bfbf;
     text-align:left;
   }
   
@@ -1256,7 +1256,7 @@
   
   
   .yellow{
-    color: #FEDE5E;
+    color: #F87217;
   }
   
   
@@ -1323,7 +1323,7 @@
     justify-content: center;
     text-align: center;
     height: 700px;
-      background-color: #1B4821;
+      background-color: #40bfbf;
       z-index: -100;
   }
   
@@ -1333,7 +1333,7 @@
     left: 0;
     width: 100%;
     background-size: cover;
-      background-color: #1B4821;
+      background-color: #40bfbf;
     z-index: -1;
   }
   
@@ -1350,7 +1350,7 @@
   .hee a.btn {
     margin: 10px;
     padding: 20px 46px;
-    background-color: #FFD95E;
+    background-color: #F87217;
   }
   
   .hee .hero-content-area {
@@ -1438,10 +1438,10 @@
   }
   
   .slider_item:nth-child(odd){
-    background-color:#1B4821;
+    background-color:#40bfbf;
   }
   .slider_item:nth-child(even){
-    background-color:#1B4821;
+    background-color:#40bfbf;
   }
   .showing{
     opacity: 1;
@@ -1527,7 +1527,7 @@
       top: -60px;
       width: 100%;
       display:block;
-      background:#1B4821;
+      background:#40bfbf;
       color:#fff;
       text-align:center;
       height:60px;
