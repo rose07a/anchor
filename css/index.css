@@ -134,7 +134,7 @@
   }
   
   .first img{
-    width:100px;
+    width:200px;
   }
   
   .first .button{
@@ -162,7 +162,7 @@
     }
   
     .first img{
-    width:100px;
+    width:200px;
   }
     .flex a{
       flex-basis: 100%;
@@ -1557,3 +1557,20 @@
       color:#000;
      }
      
+
+
+     #update{
+      background:#fff;
+      color:#D74145;
+      font-size: 20px;
+      font-weight: 1000;
+      padding:20px 10px;
+      text-align:center;
+   }
+   
+   @media (max-width: 800px) {
+      #update{
+         padding: 20px 5px;
+         font-size:20px;
+      }
+   }
