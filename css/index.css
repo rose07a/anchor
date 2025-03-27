@@ -1141,11 +1141,11 @@
     }
   
     .resources .one{
-      flex-basis: 100%;
+      flex-basis: 90%;
     }
   
     .resources .two{
-      flex-basis: 100%;
+      flex-basis: 90%;
     }
   
     .resources iframe{
@@ -1153,7 +1153,7 @@
     }
   
     .resources img{
-      width:100%;
+      width:90%;
     }
   
     .resources .leftleft{
