@@ -155,7 +155,7 @@
 
   .first h1{
     margin-top: 10px;
-    font-size: 24px;
+    font-size: 21px;
   }
   
   @media screen and (max-width: 800px) {
@@ -1137,6 +1137,26 @@
   .resources .two{
       text-align: left;
       flex-basis: 50%;
+  }
+
+  .resources .three{
+    align-items: left;
+  }
+
+  .resources .three a{
+    background-color: #fff;
+    text-align: left;
+    align-items: left;
+    width:250px;
+    height:40px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    opacity: 1;
+    padding: 0px 0px;
+    margin:0px;
+    margin-right: 0px;
   }
   
   @media screen and (max-width: 800px) {
