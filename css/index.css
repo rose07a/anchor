@@ -1568,9 +1568,13 @@
      }
      
      .verytop3 a{
-         padding: 10px;
+         padding: 5px;
          color:#fff;
          font-weight: 900;
+     }
+
+     .verytop3 i{
+      font-size:15px;
      }
   
   
