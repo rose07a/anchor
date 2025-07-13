@@ -1651,3 +1651,41 @@
          font-size:20px;
       }
    }
+
+
+
+
+.news{
+    width:100%;
+    align-items: left;
+    background:#FAF6CB;
+    height: auto;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.news .red{
+  color:red;
+}
+
+.news i{
+  font-size: 15px;
+}
+
+.news div{
+    width: 60%;
+    margin: 20px;
+    text-align: left;
+}
+
+@media (max-width: 800px) {
+    .new div{
+    width: 95%;
+    }
+}
+
+.news a{
+    color:#000;
+    font-weight: 5000;
+    text-decoration: underline;
+}
