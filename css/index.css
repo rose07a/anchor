@@ -1673,14 +1673,14 @@
 }
 
 .news div{
-    width: 60%;
-    margin: 20px;
+    width: 70%;
+    margin: 15px;
     text-align: left;
 }
 
 @media (max-width: 800px) {
     .new div{
-    width: 95%;
+    width: 100%;
     }
 }
 
