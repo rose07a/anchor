@@ -1713,3 +1713,23 @@
     font-weight: 5000;
     text-decoration: underline;
 }
+
+.todown{
+  margin-top: 30px;
+  padding-top: 50px;
+}
+
+a.sbutton{
+  width:300px;
+    height: 70px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    align-items:center;
+    background-color: #F87217;
+    opacity: 1;
+    padding: 10px;
+    margin:20px;
+}
